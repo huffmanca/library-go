@@ -1,4 +1,4 @@
-module github.com/openshift/library-go
+module github.com/huffmanca/library-go
 
 go 1.13
 
